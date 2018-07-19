@@ -135,6 +135,7 @@ serial                                    u:object_r:serial_service:s0
 servicediscovery                          u:object_r:servicediscovery_service:s0
 settings                                  u:object_r:settings_service:s0
 shortcut                                  u:object_r:shortcut_service:s0
+signboardservice                          u:object_r:signboard_service:s0
 simphonebook_msim                         u:object_r:radio_service:s0
 simphonebook2                             u:object_r:radio_service:s0
 simphonebook                              u:object_r:radio_service:s0
